@@ -1,6 +1,13 @@
 # etl-oracle-mongodb
 ETL with oracle and mongo database
 
+# Tools and Techstack
+- Python - for code (Libraries: Pandas for Dataframe operations, OracleDB for Oracle connection and PyMongo for Mongo connection)
+- Oracle DB - for SQL Database
+- Mongo DB - for No SQL Database
+- Visual Studio Code
+
+
 ## Connection test files:
 mongoconnection.py
 oracledbconnection.py
