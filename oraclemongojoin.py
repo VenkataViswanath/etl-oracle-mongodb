@@ -6,7 +6,7 @@ cs='''(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port
 
 connection=oracledb.connect(
      user="admin",
-     password="Sanp7777!!!!@@@@",
+     password="##########",
      dsn=cs)
 
 
