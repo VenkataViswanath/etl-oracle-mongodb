@@ -18,7 +18,7 @@ oracle_data = pd.read_sql(oracle_query, connection)
 print(oracle_data.head())
 
 # Connection string
-connection_string = "mongodb+srv://cvviswa7:Sanp7777!@cluster0.er4h8h9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+connection_string = "mongodb+srv://cvviswa7:######@cluster0.er4h8h9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Connect to the MongoDB database
 client = pymongo.MongoClient(connection_string)
