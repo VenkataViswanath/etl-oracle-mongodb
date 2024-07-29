@@ -1,3 +1,5 @@
+# Making changes under thorri pallu Summi's guidance.
+
 import pymongo
 import pandas as pd
 
