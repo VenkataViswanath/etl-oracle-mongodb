@@ -1,3 +1,5 @@
+# Making changes under thorri pallu Summi's guidance in 2nd file.
+
 import oracledb
 import pandas as pd
 
